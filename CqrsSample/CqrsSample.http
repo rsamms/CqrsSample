@@ -1,0 +1,6 @@
+@CqrsSample_HostAddress = http://localhost:5229
+
+GET {{CqrsSample_HostAddress}}/account/
+Accept: application/json
+
+###
